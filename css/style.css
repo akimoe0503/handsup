@@ -2,6 +2,7 @@ body,
 html {
   height: 100%;
   margin: 0 auto;
+  background-image: url("../img/paper.jpg");
 }
 
 body {
@@ -14,7 +15,7 @@ a {
 
 /* header */
 header {
-    background-color: #b6b6b680;
+    background-color: #7e767680;
     color: #fff;
     height: 90px;
     display: flex;
@@ -61,7 +62,6 @@ header {
 
 /* mainここから */
 main {
-  background-color: #fff;
   height: 800px;
 }
 
@@ -71,7 +71,7 @@ footer{
   width: 100%;
   height: 100px;
   padding: 30px 0;
-  background-color: #b6b6b680;
+  background-color: #7e767680;
   color: white;
   text-align: center;
 }
